@@ -17,7 +17,11 @@
 
 ## Установка git и VSCode на ваш ПК.
 
+ответ на вопрос
+
 ### Установка VSCode на ваш ПК.
+
+ответ на вопрос
 
 ### Установка git на ваш ПК
 * **Git для Windows,Mac,Linux:**  [https://git-scm.com/downloads](https://git-scm.com/downloads)
