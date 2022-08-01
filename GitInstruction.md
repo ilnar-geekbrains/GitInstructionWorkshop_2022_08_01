@@ -29,6 +29,22 @@
 
 ### Базовая работа с локальным репозиторием
 
+The list of commands for viewing your current repository location and for navigating between repositories is as follows:
+
+|Command| Description|
+|-------------|-----------|
+|*pwd*| - to view full path to current repository
+|*ls*| - to view the list of files in current repository
+|*ls -a*| - to view the list of files in current repository, including hidden files
+|*ls < path to repository >*| - to view the list of files in repository to which you put the path relative to your current repository
+|*cd ~*| - to move to the home directory (C:\users\userName)
+|*cd /*| - to move to root directory
+|*cd ..*| - to move one level up
+|*cd ../..*| - to move two levels up
+|*cd --*| - to move to previous directory
+|*cd /path/to/project*| - to move to the directory you want
+<p> </p>
+
 ## Ветки. Локальная работа с ветками в git.
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
