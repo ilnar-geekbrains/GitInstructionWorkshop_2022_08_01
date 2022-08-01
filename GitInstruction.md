@@ -12,6 +12,10 @@
 
 ### Установка VSCode на ваш ПК.
 
+* Скачать по ссылке https://code.visualstudio.com.
+
+* Авторизироваться.
+
 ### Установка git на ваш ПК
 * **Git для Windows,Mac,Linux:**  [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
