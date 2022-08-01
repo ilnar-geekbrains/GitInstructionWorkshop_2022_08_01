@@ -49,4 +49,16 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+[Git для новичков (часть 1)](https://habr.com/ru/post/541258/)
+
+[Git для новичков (часть 2)](https://habr.com/ru/post/542616/)
+
+[Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository)
+
+[Сохранение изменений](https://www.atlassian.com/ru/git/tutorials/saving-changes)
+
+[Git status: проверка репозитория](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository)
+
+[Отмена коммитов и изменений ](https://www.atlassian.com/ru/git/tutorials/undoing-changes)
+
 ## Альтернативные системы контроля версий.
