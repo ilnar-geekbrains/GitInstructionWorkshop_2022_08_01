@@ -11,6 +11,9 @@
 ## Установка git и VSCode на ваш ПК.
 
 ### Установка VSCode на ваш ПК.
+1. Go to the website https://code .visualstudio.com 
+2. Download the distribution to your PC
+3. Open the installation file and install VSC
 
 ### Установка git на ваш ПК
 * **Git для Windows,Mac,Linux:**  [https://git-scm.com/downloads](https://git-scm.com/downloads)
