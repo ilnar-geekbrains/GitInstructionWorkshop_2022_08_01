@@ -16,6 +16,9 @@
 w;klkwgnlkgnlnglkwndslgjn
 
 ;wkemmglkwglk
+lejdfljwn
+
+wljbkj
 
 
 ## Создание и базовая работа с локальным репозиторием.
