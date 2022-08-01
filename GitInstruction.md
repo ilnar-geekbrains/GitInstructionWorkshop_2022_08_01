@@ -48,5 +48,6 @@
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ru.md
 
 ## Альтернативные системы контроля версий.
