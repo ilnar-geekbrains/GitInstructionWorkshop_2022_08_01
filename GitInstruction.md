@@ -22,6 +22,13 @@
     2. config -- global user.email ваша_почта@example.com
 
 #### Первая настройка git
+w;klkwgnlkgnlnglkwndslgjn
+
+;wkemmglkwglk
+lejdfljwn
+
+wljbkj
+
 
 ## Создание и базовая работа с локальным репозиторием.
 
