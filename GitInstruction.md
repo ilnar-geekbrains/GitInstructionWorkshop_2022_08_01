@@ -12,6 +12,8 @@
 
 ### Установка VSCode на ваш ПК.
 
+*Переходим на сайт https://code.visualstudio.com/ скачиваем дистрибутив себе на пк, открываем установочный файл и устанавливаем VS code.*
+
 ### Установка git на ваш ПК
 * **Git для Windows,Mac,Linux:**  [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
