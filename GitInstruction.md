@@ -33,6 +33,8 @@
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
+Branch is a feature which allows you to work on different areas of project independently. For instance, you might want to continue main work on the project while at the same time develop a feature of the project which, if succeeds, will be merged with main project in future.
+
 ### Базовая работа с ветками в git.
 
 ## Работа с удаленными репозиториями.
