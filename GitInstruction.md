@@ -22,6 +22,11 @@
     2. config -- global user.email ваша_почта@example.com
 
 #### Первая настройка git
+git config --global user.name – имя пользователя
+git config --global user.email - электронная  почта
+git config --global color.ui auto - не обязательная команда включающая подсветку команд
+git config --global core.editor - установка текстового редактора по умолчанию когда хочется своим редактором пользоваться
+
 
 ## Создание и базовая работа с локальным репозиторием.
 
