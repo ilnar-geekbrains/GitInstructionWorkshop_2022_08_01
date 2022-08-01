@@ -88,7 +88,15 @@ Git - одна из программ - систем контроля верси
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
-### Базовая работа с ветками в git.
+### Базовые операции для работы с Git
+mkdir my_project
+cd my_project
+touch .gitignore
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin youruser@yourserver.com:/path/to/my_project.git
+git push origin master
 
 ## Работа с удаленными репозиториями.
 
@@ -105,3 +113,5 @@ Git - одна из программ - систем контроля верси
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+
+## как увидеть все ветки?
