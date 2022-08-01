@@ -47,6 +47,15 @@
 
 ### Инструкция по созданию pull request
 
+1. first have to make fork of repo
+2. git clone - from github to local repo
+3. create a new branch and work in that branch
+4. after add new code to project - save in local, add and commit
+5. push to github
+6. on github send pull request
+
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+
+gitlab
