@@ -50,3 +50,13 @@
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+
+* Delta Lake
+
+* Git Large File Storage
+
+* Pachyderm
+
+* Dolt
+
+* lakeFS
