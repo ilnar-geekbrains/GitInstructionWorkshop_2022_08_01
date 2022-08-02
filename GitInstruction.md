@@ -75,6 +75,19 @@ Git - одна из программ - систем контроля верси
 
 ## Ветки. Локальная работа с ветками в git.
 
+> git branch <new_name_branch> - creates a new branch called ＜new_branch_name＞. This does not check out the new branch.
+
+> git branch -d <branch_name> - deletes the specified branch. This is a “safe” operation in that Git prevents you from deleting the branch if it has unmerged changes.
+
+> git branch -D <branch_name> - force deletes the specified branch, even if it has unmerged changes. This is the command to use if you want to permanently throw away all of the commits associated with a particular line of development.
+
+> git branch -m <new_name_branch> - renames the current branch to ＜new_name_branch＞
+
+> git branch --list - lists all of the branches in your repository
+
+> git branch -a - lists all remote branches.
+
+
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 ### Базовая работа с ветками в git.
