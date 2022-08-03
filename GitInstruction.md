@@ -103,5 +103,7 @@ Git - одна из программ - систем контроля верси
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
+***[Руководство по Git на русском](https://git-scm.com/book/ru/v2)***
+***[LearnGitBranching!](https://learngitbranching.js.org/?locale=ru_RU)***
 
 ## Альтернативные системы контроля версий.
